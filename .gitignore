@@ -7,3 +7,4 @@ sublimeclang.sublime-workspace
 *.cache
 .coverage
 *,cover
+src/.tags
